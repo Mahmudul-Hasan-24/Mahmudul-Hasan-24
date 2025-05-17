@@ -23,6 +23,17 @@ I am pursuing Master´s of Computational Social System (Business Analytics) at U
 ![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MiniZinc](https://img.shields.io/badge/MiniZinc-005B94?style=for-the-badge&logo=code&logoColor=white)
 
+#Skills:
+
+-Data Analysis & Visualization
+- Problem-solving
+- Communication
+- Negociation
+- Time Management
+- Report Writing & Presentation
+- Collaboration in Cross-functional Teams
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mahmudul-Hasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mahmudul-Hasan&theme=dark&hide_border=false)<br/>
