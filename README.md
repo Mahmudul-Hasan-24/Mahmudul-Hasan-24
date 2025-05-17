@@ -46,9 +46,7 @@ I am pursuing Master´s of Computational Social System (Business Analytics) at U
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mahmudul-Hasan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# name: GitHub Snake Game
 
-on:
   # Schedule the workflow to run daily at midnight UTC
   schedule:
     - cron: "0 0 * * *"
