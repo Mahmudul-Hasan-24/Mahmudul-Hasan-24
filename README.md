@@ -32,6 +32,7 @@ I am pursuing Master´s of Computational Social System (Business Analytics) at U
 - Report Writing & Presentation
 - Collaboration in Cross-functional Teams
 - Data Analysis & Visualization
+- Decision-Making
 
 
 # 📊 GitHub Stats:
