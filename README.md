@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am pursuing Master´s of Computational Social System (Business Analytics) at University of Graz and Technical University of Graz.<br>
+I am pursuing Master´s of Computational Social System (Business Analytics) at University of Graz and Technical University of Graz with skills in Python, data analysis and forecasting. Passionate about business analytics and data-driven development. Actively seeking roles where I can turn data into actionable insights.<br>
 
 
 ## 🌐 Socials:
