@@ -52,8 +52,3 @@ Simulated agent-based models to explore opinion dynamics and behavioral patterns
 ✨ *“I love solving problems with data and turning raw information into meaningful insights that drive smarter decisions.”*  
 """
 
-# Save as README.md file
-readme_path = Path("/mnt/data/README.md")
-readme_path.write_text(readme_content, encoding="utf-8")
-
-readme_path
