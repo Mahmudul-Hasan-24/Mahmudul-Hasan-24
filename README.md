@@ -9,7 +9,7 @@
 ## 🚀 Tech Stack
 ✅ **Programming:** Python, R, SQL  
 ✅ **Analytics & BI Tools:** Power BI, Excel, Jupyter Notebook  
-✅ **Databases:** MySQL, SQLite  
+✅ **Databases:** MySQL,  
 ✅ **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, ggplot2, NetworkX  
 ✅ **Core Skills:** Data Cleaning, ETL, Clustering, Simulation Modeling, Decision Support Systems  
 
@@ -26,7 +26,7 @@ Designed normalized databases, optimized SQL queries, and integrated with Python
 🔹 [**Data Cleaning & ETL Pipeline (R)**](https://github.com/Mahmudul-Hasan-24/Data-Cleaning-and-ETL-Pipeline)  
 Built an ETL pipeline in R to clean and transform raw datasets, ensuring reliability for analytics.  
 
-🔹 [**Configuration Management Tool (Python)**](https://github.com/Mahmudul-Hasan-24/Configuration-Management-Tool)  
+🔹 [**Configuration Management Tool (Minizinc)**](https://github.com/Mahmudul-Hasan-24/Configuration-Management-Tool)  
 Created a modular system in Python to manage dynamic application configurations.  
 
 🔹 [**Social System Dynamics Simulation (Python)**](https://github.com/Mahmudul-Hasan-24/Social-System-Dynamics-Simulation)  
