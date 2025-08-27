@@ -1,7 +1,4 @@
-from pathlib import Path
-
-# Content for the professional GitHub profile README.md
-readme_content = """# 👋 Hi, I’m Mahmudul Hasan  
+ 👋 Hi, I’m Mahmudul Hasan  
 
 🎓 Master’s Student in **Business Analytics / Computational Social Systems** at University of Graz & TU Graz  
 💡 Passionate about **Data Analytics, Business Intelligence, and Computational Modeling**  
