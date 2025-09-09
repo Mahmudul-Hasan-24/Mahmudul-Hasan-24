@@ -12,7 +12,9 @@
 ✅ **Databases:** MySQL,  
 ✅ **Libraries & Frameworks:** Pandas, NumPy, Matplotlib,Seaborn, NetworkX  
 ✅ **Core Skills:** Data Cleaning, ETL, Clustering, Simulation Modeling, Decision Support Systems 
-✅ **Configuration System: Minizinc
+✅ **Configuration System:** Minizinc
+
+
 
 ---
 
