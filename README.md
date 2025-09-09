@@ -10,7 +10,7 @@
 ✅ **Programming:** Python, R, SQL  
 ✅ **Analytics & BI Tools:** Power BI, Excel, Jupyter Notebook  
 ✅ **Databases:** MySQL,  
-✅ **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, ggplot2, NetworkX  
+✅ **Libraries & Frameworks:** Pandas, NumPy, Matplotlib,seaborn, NetworkX  
 ✅ **Core Skills:** Data Cleaning, ETL, Clustering, Simulation Modeling, Decision Support Systems  
 
 ---
