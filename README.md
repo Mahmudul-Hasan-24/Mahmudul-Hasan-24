@@ -1,8 +1,8 @@
  👋 Hi, I’m Mahmudul Hasan  
 
-🎓 Master’s Student in **Business Analytics / Computational Social Systems** at University of Graz & TU Graz  
-💡 Passionate about **Data Analytics, Business Intelligence, and Computational Modeling**  
-🌍 Open to roles in **Data Science | Analytics | Business Intelligence**  
+🎓 Master’s Student in Computational Social Systems(Business Analytics) at University of Graz & TU Graz  
+💡 Passionate about **Data Analytics, Business Intelligence, and Business Analytics**  
+🌍 Open to roles in **Data Science | Business Analytics | Business Intelligence**  
 
 ---
 
@@ -10,8 +10,9 @@
 ✅ **Programming:** Python, R, SQL  
 ✅ **Analytics & BI Tools:** Power BI, Excel, Jupyter Notebook  
 ✅ **Databases:** MySQL,  
-✅ **Libraries & Frameworks:** Pandas, NumPy, Matplotlib,seaborn, NetworkX  
-✅ **Core Skills:** Data Cleaning, ETL, Clustering, Simulation Modeling, Decision Support Systems  
+✅ **Libraries & Frameworks:** Pandas, NumPy, Matplotlib,Seaborn, NetworkX  
+✅ **Core Skills:** Data Cleaning, ETL, Clustering, Simulation Modeling, Decision Support Systems 
+✅ **Configuration System: Minizinc
 
 ---
 
