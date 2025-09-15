@@ -48,7 +48,8 @@ Simulated agent-based models to explore opinion dynamics and behavioral patterns
 ## 🌐 Let’s Connect!
 - 📧 **Email:** Mahmudul.hasan@student.tugraz.at or Mahmudul.hasan@edu.uni-graz.at 
 - 💼 **LinkedIn:**[https://www.linkedin.com/in/mahmudul-hasan-764307249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
-- 🐙 **GitHub:** [github.com/Mahmudul-Hasan-24](https://github.com/Mahmudul-Hasan-24)  
+- 🐙 **GitHub:** [github.com/Mahmudul-Hasan-24](https://github.com/Mahmudul-Hasan-24)
+-    **Facebook:** https://www.facebook.com/share/1AYbsg2LDS/
 
 ---
 
