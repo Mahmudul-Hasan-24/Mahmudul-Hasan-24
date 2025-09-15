@@ -47,7 +47,7 @@ Simulated agent-based models to explore opinion dynamics and behavioral patterns
 
 ## 🌐 Let’s Connect!
 - 📧 **Email:** your.email@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)  
+- 💼 **LinkedIn:**[https://www.linkedin.com/in/mahmudul-hasan-764307249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
 - 🐙 **GitHub:** [github.com/Mahmudul-Hasan-24](https://github.com/Mahmudul-Hasan-24)  
 
 ---
