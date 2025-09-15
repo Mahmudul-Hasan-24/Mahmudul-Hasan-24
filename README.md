@@ -9,7 +9,7 @@
 ## 🚀 Tech Stack
 ✅ **Programming:** Python 
 ✅ **Analytics & BI Tools:** Power BI, Excel, Jupyter Notebook  
-✅ **Databases:** SQL,  
+✅ **Databases:** SQL 
 ✅ **Libraries & Frameworks:** Pandas, NumPy, Matplotlib,Seaborn, NetworkX  
 ✅ **Core Skills:** Data Cleaning, ETL, Clustering, Simulation Modeling, Decision Support Systems 
 ✅ **Configuration System:** Minizinc
