@@ -1,11 +1,7 @@
 
 
 
-profile_readme_modern_banner_path = Path("/mnt/data/GitHub-Profile-README-Modern-Banner.md")
 
-profile_readme_modern_banner_content = """<p align="center">
-  <img src="A_banner_image_for_Mahmudul_Hasan_is_presented_in_.png" alt="Mahmudul Hasan - Data Analytics & Business Intelligence" width="100%">
-</p>
 
 <h1 align="center">👋 Hi, I'm Mahmudul Hasan</h1>
 
