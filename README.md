@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_professional_digital_graphic_banner_features_Mah.png" alt="Mahmudul Hasan - Data Analyst,Business Analyst & Business Intelligence" width="100%">
+  <img src="A_professional_digital_graphic_banner_features_Mah.png" alt="Mahmudul Hasan - Business Analytics" width="100%">
 </p>
 
 
