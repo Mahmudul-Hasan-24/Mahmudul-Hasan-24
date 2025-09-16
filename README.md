@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mahmudul Hasan</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Role-Data%20Science%20%7C%20Business%20Analytics-blue" />
+<img src="https://img.shields.io/badge/Role-Data%20Science%20%7C%20Business%20Analytics-blue"Business Intellligence />
 <img src="https://img.shields.io/badge/Tools-Python%20%7C%20R%20%7C%20SQL%20%7C%20MiniZinc-green" />
 <img src="https://img.shields.io/badge/Location-Graz%2C%20Austria-%23ff9933" />
 </p>
