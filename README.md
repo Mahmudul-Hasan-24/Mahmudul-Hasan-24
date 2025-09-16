@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="A_professional_digital_graphic_banner_features_Mah.png" alt="Mahmudul Hasan - Data Analyst,Business Analyst & Business Intelligence" width="100%">
+</p>
+
+
+
 <h1 align="center">👋 Hi, I'm Mahmudul Hasan</h1>
 
 <p align="center">
