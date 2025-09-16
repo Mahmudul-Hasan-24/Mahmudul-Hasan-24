@@ -1,10 +1,10 @@
-from pathlib import Path
 
-# Create a profile README with the banner included
-profile_readme_banner_path = Path("/mnt/data/GitHub-Profile-README-with-Banner.md")
 
-profile_readme_banner_content = """<p align="center">
-  <img src="A_professional_digital_graphic_banner_features_Mah.png" alt="Mahmudul Hasan - Data Analytics & Business Intelligence" width="100%">
+
+profile_readme_modern_banner_path = Path("/mnt/data/GitHub-Profile-README-Modern-Banner.md")
+
+profile_readme_modern_banner_content = """<p align="center">
+  <img src="A_banner_image_for_Mahmudul_Hasan_is_presented_in_.png" alt="Mahmudul Hasan - Data Analytics & Business Intelligence" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Mahmudul Hasan</h1>
@@ -90,5 +90,5 @@ profile_readme_banner_content = """<p align="center">
 </p>
 """
 
-profile_readme_banner_path.write_text(profile_readme_banner_content, encoding="utf-8")
-profile_readme_banner_path
+profile_readme_modern_banner_path.write_text(profile_readme_modern_banner_content, encoding="utf-8")
+profile_readme_modern_banner_path
