@@ -86,5 +86,3 @@
 </p>
 """
 
-profile_readme_modern_banner_path.write_text(profile_readme_modern_banner_content, encoding="utf-8")
-profile_readme_modern_banner_path
