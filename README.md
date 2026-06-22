@@ -37,24 +37,20 @@
 ---
 ## 🚀 Featured Projects
 
-- **📊 Sales Performance Analysis Dashboard (Power BI)**
-  Built an interactive Power BI dashboard analyzing $6.2M in sales across 6 US states — KPI cards, geospatial map, trend analysis, and dynamic slicers.
+- **📊 [Sales Performance Analysis Dashboard (Power BI)](https://github.com/Mahmudul-Hasan-24/Sales-Performance-Analysis-Dashboard-using-Power-BI)**  
+  Interactive Power BI dashboard analyzing $6.2M in sales across 6 US states and 3 product categories — KPI cards, geospatial map, trend analysis, and dynamic slicers for drill-down business insights.
 
-- **🛒 E-Commerce Product Analytics (Python)**
-  Conducted EDA on Amazon product data using Pandas, Matplotlib, and Seaborn — uncovering pricing patterns, discount effectiveness, and category competitiveness.
+- **🛒 [Amazon Product Data Analysis (Python)](https://github.com/Mahmudul-Hasan-24/Amazon-Product-Data-Analysis-Python)**  
+  EDA on Amazon product data using Python — analyzes pricing, discounts, ratings, and category competitiveness to generate actionable seller insights.
 
-- **🌍 Climate Change & Air Quality Attitudes in Europe (Python + SQL)**
-  Analyzed EOSC-ESS8 survey data across 10 European countries using Python, SQL, correlation analysis, and relational database modeling.
+- **🌍 [Climate Change & Air Quality Attitudes in Europe (Python)](https://github.com/Mahmudul-Hasan-24/Climate-Change-Attitudes-Air-Quality-Europe)**  
+  Analyzing whether air pollution and temperature anomalies influence climate change attitudes across 10 European countries — Python, Pandas, Seaborn, OLS regression, and relational database modeling.
 
-- **⚡ Renewable Energy Consumption Dashboard (R)**
-  Built an interactive R dashboard analyzing global renewable energy trends across 190+ countries — choropleth maps, time series, and scatter plots.
+- **⚡ [Renewable Energy Consumption Dashboard (R)](https://github.com/Mahmudul-Hasan-24/Renewable-Energy-Dashboard-R)**  
+  Interactive R dashboard analyzing global renewable energy consumption across 190+ countries features choropleth maps, time series charts and scatter plots with dynamic year and country filters.
 
-- **📚 Kindle Book Success Analysis (Python)**
-  Analyzed how publisher reputation and cover design influence Kindle book sales and ratings — EDA, statistical modeling, and correlation heatmaps.
-
-- **📈 Business Decision Support System (R)**
-  Built a data-driven decision support model using decision trees, cross-validation, and a stakeholder-ready dashboard presentation.
-
+- **📚 [Kindle Book Success Analysis (Python)](https://github.com/Mahmudul-Hasan-24/Kindle-Book-Success-Analysis-Python)**  
+  Analyzing how publisher reputation and cover design influence Kindle book sales, ratings, and bestseller status — using Python, Pandas, Seaborn, and statistical modeling on a structured Kindle data.
 ## 📊 GitHub Analytics  
 
 <p align="center">
