@@ -32,7 +32,7 @@
 | **Databases**      | SQL |
 | **Libraries**      | Pandas, NumPy, Matplotlib, Seaborn, NetworkX |
 | **Core Skills**    | Data Cleaning, ETL, Clustering, Simulation Modeling, Decision Support Systems |
-| **Specialization** | Knowledge-Based Configuration with MiniZinc |
+| **Specialization** |  Python | Excel | SQL | Power BI |
 
 ---
 
