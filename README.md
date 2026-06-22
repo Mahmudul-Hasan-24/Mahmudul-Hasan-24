@@ -19,7 +19,7 @@
 📊 Passionate about **Data Analytics**, **Business Intelligence**, and **Decision Support Systems**  
 💡 I thrive on **turning raw data into insights** that drive smarter business decisions.  
 
-🌏 **Open to roles:** Data Science • Business Analytics • Business Intelligence  
+🌏 **Open to roles:** Data analyst • Business Analyst • Business Intelligence  
 
 ---
 
