@@ -35,31 +35,25 @@
 | **Specialization** |  Python | Excel | SQL | Power BI |
 
 ---
+## 🚀 Featured Projects
 
-## 🚀 Featured Projects  
+- **📊 Sales Performance Analysis Dashboard (Power BI)**
+  Built an interactive Power BI dashboard analyzing $6.2M in sales across 6 US states — KPI cards, geospatial map, trend analysis, and dynamic slicers.
 
-- **🌍 Attitudes on Climate Change & Air Quality (Python)**  
-  Clustered European cities using **TF-IDF**, **K-Means**, and **PCA** to reveal regional climate concern patterns.
+- **🛒 E-Commerce Product Analytics (Python)**
+  Conducted EDA on Amazon product data using Pandas, Matplotlib, and Seaborn — uncovering pricing patterns, discount effectiveness, and category competitiveness.
 
-- **📊 Business Decision Support System (R)**  
-  Built an **R-based decision support tool** using decision trees, with an executive-friendly **dashboard presentation**.
+- **🌍 Climate Change & Air Quality Attitudes in Europe (Python + SQL)**
+  Analyzed EOSC-ESS8 survey data across 10 European countries using Python, SQL, correlation analysis, and relational database modeling.
 
-- **🛒 E-Commerce Product Analytics (Python)**  
-  Conducted **EDA on Amazon product data**, revealing pricing and rating trends to support strategic insights.
+- **⚡ Renewable Energy Consumption Dashboard (R)**
+  Built an interactive R dashboard analyzing global renewable energy trends across 190+ countries — choropleth maps, time series, and scatter plots.
 
-- **🧩 Knowledge-Based Product Configuration (MiniZinc)**  
-  Designed a **knowledge-based configuration model** for complex products, enforcing compatibility rules.
+- **📚 Kindle Book Success Analysis (Python)**
+  Analyzed how publisher reputation and cover design influence Kindle book sales and ratings — EDA, statistical modeling, and correlation heatmaps.
 
-- **🧠 Opinion Dynamics Simulation (Python)**  
-  Developed an **agent-based model** to study consensus formation under external shocks across network topologies.
-
-- **🔗 Relational Database Design & Querying (SQL, Python)**  
-  Built normalized schemas, optimized queries, and automated reporting pipelines.
-
-- **⚙️ Data Cleaning & ETL Pipeline (R & SQL)**  
-  Designed and implemented a robust **ETL workflow** for reliable analytics-ready data.
-
----
+- **📈 Business Decision Support System (R)**
+  Built a data-driven decision support model using decision trees, cross-validation, and a stakeholder-ready dashboard presentation.
 
 ## 📊 GitHub Analytics  
 
